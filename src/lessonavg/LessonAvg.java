@@ -1,4 +1,4 @@
-package LessonAvg;
+package lessonavg;
 
 import java.util.Scanner;
 
